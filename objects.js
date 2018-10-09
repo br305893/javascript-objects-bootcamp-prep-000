@@ -6,3 +6,4 @@ var playlist = {
 
 function updatePlaylist(playlist, artistName, songTitle){
  playlist['Widespread Panic'] = "Chilly Water"
+return playlist}
