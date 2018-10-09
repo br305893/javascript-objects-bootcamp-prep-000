@@ -4,5 +4,6 @@ var playlist = {
   theAllmanBrothersBand: 'Whipping Post'
 }
 
-function updatePlaylist(playlist, artistName, songTitle)
+function updatePlaylist(playlist, artistName, songTitle){
  return Object.assign({}, playlist,{[moe]: "Rebubula"})
+ }
